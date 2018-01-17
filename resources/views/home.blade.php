@@ -15,7 +15,7 @@
                             {{ session('status') }}
                         </div>
                     @endif
-      kaalidoss you are in git
+      kaalidoss you are in git and git is somehow working fine
                     You are logged in!
                 </div>
             </div>
