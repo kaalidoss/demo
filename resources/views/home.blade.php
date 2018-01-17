@@ -15,10 +15,11 @@
                             {{ session('status') }}
                         </div>
                     @endif
+
                     <div>
                         add the user data
                     </div>
-      kaalidoss you are in git and git is somehow working fine
+
                     You are logged in!
                 </div>
             </div>
